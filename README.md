@@ -1,5 +1,6 @@
 ## hi there 👋
-full-stack webapplication developer
+
+web application developer
 
 [![My Skills](https://skillicons.dev/icons?i=js,vue,react,java,spring,postgres,aws)](https://skillicons.dev)
 
