@@ -2,7 +2,7 @@
 
 web application developer
 
-[![My Skills](https://skillicons.dev/icons?i=js,vue,react,java,spring,postgres,aws)](https://skillicons.dev)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imaty1022&show_icons=true&theme=tokyonight)
+[![My Skills](https://skillicons.dev/icons?i=vue,react,java,spring,postgres,aws)](https://skillicons.dev)
 
